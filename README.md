@@ -7,17 +7,17 @@ La fecha de creación de Google Chrome fué en 2008.
 
 ### **Definición**
 
-[Google Chrome](https://www.google.es) es un navegador web  desarrollado por Google, aunque está hecho a partir de proyectos de código abierto.
+[Google Chrome](https://www.google.es) es un navegador web  desarrollado por Google, aunque está hecho a partir de proyectos de código abierto aunque aún no está desarollado del todo.
 
 
 ![foto](https://github.com/RobertoNobleMaestro/RobertoNobleMaestro-SMX2-M8UF1A1-GoogleChrome-2008/blob/main/chrome_02_01_l.png)  
  
 ### **Uso**
 
-Es un sitio que permite a desarrolladores  almacenar sus trabajos donde la gente pueda colaborar con los proyectos de estos para asi hacer su propia versión o simplemente crear lo que ellos quieran.
+Es un navegador web que permite obtener resultados de búsqueda personalizados que aparecen a medida que introduces texto. Sincronizar marcadores y ajustes en todos tus dispositivos y usar Google WorkSpace. 
 
 
-![Foto](https://github.com/RobertoNobleMaestro/RobertoNobleMaestro-SMX2-M8UF1A1-Github-2010--RobertoNobleMaestro/blob/main/gitHub.png)
+![Foto](https://github.com/RobertoNobleMaestro/RobertoNobleMaestro-SMX2-M8UF1A1-GoogleChrome-2008/blob/main/b63e807f0e9c9b690e5e6200be115403.jpeg)
 
 
 
