@@ -3,7 +3,7 @@
 
 ### **Fecha de creación**
 
-La fecha de creación de Google Chrome fué en 2008.
+La fecha de creación de Google Chrome fué en 2008 por Matthew Papakipos.
 
 ### **Definición**
 
