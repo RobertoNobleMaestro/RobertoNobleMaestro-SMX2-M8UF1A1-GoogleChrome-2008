@@ -4,7 +4,7 @@
 ### **Fecha de creación**
 
 La fecha de creación de Google Chrome fué en 2008 por Matthew Papakipos.
-
+................................................................................................................................................
 ![Foto](https://github.com/RobertoNobleMaestro/RobertoNobleMaestro-SMX2-M8UF1A1-GoogleChrome-2008/blob/main/Matthew_Papakipos.webp)
 ### **Definición**
 
